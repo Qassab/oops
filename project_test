@@ -7,7 +7,7 @@
 <br><br>
 <button id="show-all">Show All Items</button>
 <ul id="list-of-items"><ul>
-</html>
+
 <script>
 var facilitators, color;
 function getNumberOrString(value) {
@@ -60,3 +60,4 @@ document.getElementById("show-all").addEventListener("click", () => {
 });
 
 </script>
+</html>
